@@ -1,6 +1,17 @@
 # Hi, I'm An! 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about AWS, AI, and creating engaging user experiences.
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ansapple&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansapple&layout=compact&theme=radical)
+
+![Visitor Count](https://profile-counter.glitch.me/ansapple/count.svg)
+
+</div>
 
 ## 🚀 My Portfolio
 **[View My Complete Portfolio](https://ansapple.github.io/portfolio-website/)**
