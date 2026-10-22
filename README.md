@@ -24,30 +24,23 @@ Welcome to my GitHub profile! I'm a developer passionate about AWS, AI, and crea
 
 ## 🎯 Featured Projects
 
-### 🤖 MyCoolChatbot
-AI-powered conversational assistant with voice synthesis and image generation
-- **Tech**: AWS Lambda, Bedrock, Polly, Terraform
-- **Features**: Multimodal AI, serverless architecture
+### 🤖 AI Agent — Bedrock Chatbot with Memory, RAG and Tools
+Authenticated AI assistant on Amazon Bedrock, plus a scheduled agent that emails me a weekly research digest.
+- **Tech**: AWS Lambda (Python), Amazon Bedrock (Converse API), Titan Embeddings V2, DynamoDB, API Gateway, Cognito, S3 + CloudFront, EventBridge Scheduler, SES, CloudFormation
+- **Highlights**: Two Lambdas, 5 agent tools, 4 selectable models, weekly automated digest
+- **Case file**: [View on my portfolio](https://2026portfolio-eta.vercel.app/projects) 🔎
 
-### 🐱 AWS Cat Academy
-Gamified learning platform for AWS certification concepts
-- **Tech**: JavaScript, HTML5, CSS3, Game Design
-- **Demo**: [Play Game](https://ansapple.github.io/aws-cat-academy/) 🎮
-
-### 📚 AWS Exam Practice
-Comprehensive practice exam application with 2000+ questions
-- **Tech**: JavaScript, PWA, Local Storage
-- **Demo**: [Try Exam](https://ansapple.github.io/aws-exam-practice/) 📝
-
-### 📄 ExamPrep Tool
-Intelligent PDF processing system for interactive practice exams
-- **Tech**: Node.js, Express, PDF.js
+### 🎓 AWS Certification Practice Hub
+Practice-exam platform I built for three AWS certification tracks — around 1,950 questions.
+- **Tech**: JavaScript, HTML/CSS, Mermaid.js, Highlight.js, LocalStorage, GitHub Pages
+- **Highlights**: ~1,950 questions across 3 certification tracks
+- **Case file**: [View on my portfolio](https://2026portfolio-eta.vercel.app/projects) 📝
 
 ## 🛠️ Tech Stack
-- **Cloud**: AWS (Lambda, Bedrock, Polly, DynamoDB)
-- **Frontend**: JavaScript, HTML5, CSS3, Responsive Design
-- **Backend**: Node.js, Express
-- **Tools**: Terraform, PDF.js, Game Design
+- **Cloud**: AWS (Lambda, Bedrock, DynamoDB, API Gateway, Cognito, S3, CloudFront, EventBridge, SES)
+- **AI/ML**: Amazon Bedrock (Converse API), Titan Embeddings V2, RAG
+- **Frontend**: JavaScript, HTML/CSS, responsive design
+- **Infra & tools**: CloudFormation, Mermaid.js, Highlight.js, GitHub Pages
 
 ## 📫 Let's Connect
 - 💼 **Portfolio**: https://2026portfolio-eta.vercel.app/
