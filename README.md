@@ -18,7 +18,9 @@ Welcome to my GitHub profile! I'm a developer passionate about AWS, AI, and crea
 
 
 ## 🚀 My Portfolio
-**[View My Complete Portfolio](https://ansapple.github.io/portfolio-website/)**
+**[View My Complete Portfolio](https://2026portfolio-eta.vercel.app/)**
+
+[![Portfolio demo](assets/portfolio-demo.gif)](https://2026portfolio-eta.vercel.app/)
 
 ## 🎯 Featured Projects
 
@@ -48,7 +50,7 @@ Intelligent PDF processing system for interactive practice exams
 - **Tools**: Terraform, PDF.js, Game Design
 
 ## 📫 Let's Connect
-- 💼 **Portfolio**: https://ansapple.github.io/portfolio-website/
+- 💼 **Portfolio**: https://2026portfolio-eta.vercel.app/
 - 🌐 **Live Demos**: Check out my interactive projects above!
 
 ---
